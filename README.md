@@ -1,2 +1,2 @@
 # ZNO-School-Telegram-Bot
-Chat bot in Telegram for online ZNO-school
+Chatbot in Telegram for online ZNO-school
