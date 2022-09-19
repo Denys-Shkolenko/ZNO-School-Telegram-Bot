@@ -5,4 +5,4 @@ Chatbot in Telegram for online ZNO-school
 - maven
 - java 11
 - Spring boot
-- telegram bot library for java(https://github.com/rubenlagus/TelegramBots)
+- telegram bot library for java (https://github.com/rubenlagus/TelegramBots)
